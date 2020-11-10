@@ -6,6 +6,7 @@ using System;
 namespace SoupRecipeBook.Manager
 {
     public class Hostess : IHostess
+   //poijpo9hipo
     {
         private readonly ICookProvider cookProvider;
 
